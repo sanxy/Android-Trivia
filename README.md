@@ -6,4 +6,4 @@ The Android Trivia application is an application that asks the user trivia quest
 ## Screenshots
 <img height=550 width=275 src="https://github.com/sanxy/Android-Trivia/blob/main/screenshot/1.png" hspace=24><img height=550 width=275 src="https://github.com/sanxy/Android-Trivia/blob/main/screenshot/2.png"/> 
 
-<img height=550 width=275 src="https://github.com/sanxy/Android-Trivia/blob/main/screenshot/2.png"/> 
+<img height=550 width=275 src="https://github.com/sanxy/Android-Trivia/blob/main/screenshot/2.png" hspace=24/> 
